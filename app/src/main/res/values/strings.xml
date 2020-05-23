@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">KaratekaInfoBD</string>
+    <string name="title_activity_insert_options">InsertOptions</string>
+    <string-array name="maleKumiteEvents">
+        <item>-50kg Male Kumite</item>
+        <item>-55kg Male Kumite</item>
+        <item>-60kg Male Kumite</item>
+        <item>-67kg Male Kumite</item>
+        <item>-75kg Male Kumite</item>
+        <item>-84kg Male Kumite</item>
+        <item>+84kg Male Kumite</item>
+        <item>NONE</item>
+    </string-array>
+
+    <string-array name="femaleKumiteEvents">
+        <item>-50kg Female Kumite</item>
+        <item>-55kg Female Kumite</item>
+        <item>-61kg Female Kumite</item>
+        <item>-68kg Female Kumite</item>
+        <item>+68kg Female Kumite</item>
+        <item>NONE</item>
+    </string-array>
+
+    <string-array name="maleKataEvents">
+        <item>Male Individual Kata</item>
+        <item>Male Team Kata</item>
+        <item>All</item>
+        <item>NONE</item>
+    </string-array>
+
+    <string-array name="femaleKataEvents">
+        <item>Female Individual Kata</item>
+        <item>Female Team Kata</item>
+        <item>All</item>
+        <item>NONE</item>
+    </string-array>
+
+    <string-array name="teams">
+        <item></item>
+        <item>Bangladesh Ansar &amp; VDP</item>
+        <item>Bangladesh Army</item>
+    </string-array>
+
+    <string-array name="clubs">
+        <item></item>
+        <item>Arrianna Academy</item>
+        <item>BSKU</item>
+        <item>Shotokan Karate-do Kyokai</item>
+    </string-array>
+
+</resources>
